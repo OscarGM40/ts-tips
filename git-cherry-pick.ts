@@ -1,0 +1,3 @@
+// https://www.youtube.com/watch?v=wIRufAeRntA
+//* git cherry-pick <commit-id> me permite aplicar commits de otra rama a mi rama principal (a la rama en la que esté)
+// Por ejemplo, podriamos estar en la v2 de mi proyecto y descubrir un fallo de seguridad que afecta tanto a esa v2 como a la anterior 1.1. Podria aplicar ese parche de seguridad a la version 1.1 tmb simplemente aplicando ese commit tmb
